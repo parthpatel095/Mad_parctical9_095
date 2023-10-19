@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector android:oneshort="false"  xmlns:android="http://schemas.android.com/apk/res/android">
+<selector   android:oneshot="false" xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:drawable="@drawable/alarm1" android:duration="200"/>
     <item android:drawable="@drawable/alarm2" android:duration="200"/>
